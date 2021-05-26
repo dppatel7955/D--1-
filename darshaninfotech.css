@@ -1,0 +1,45 @@
+table{
+	width: 100%;
+	text-align: center;
+	background-color: green;
+}
+table tr h3{
+	height: 40px;
+	font-size: 30px;
+}
+table tr {
+	height: 40px;
+}
+table tr a{
+	text-decoration: none;
+	font-size: 20px;
+}
+.d1{
+	height: 500px;
+	width: 100%;
+	background-color: white;
+}
+td{
+	background-color: lightgreen;
+}
+.d2{
+	margin-top: 50px;
+	margin-left: 600px;
+}
+.i1{
+	margin-right: 500px;
+	margin-top: -300px;
+	}
+.i2{
+	margin-right: 500px;
+}
+img{
+	height: 400px;
+	width: 450px;
+}
+table tr a:hover{
+	font-size: 28px;
+}
+.ai1{
+	margin: 70px;
+	}
